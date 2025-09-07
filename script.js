@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    // Adicionar experiências dinamicamente
     $("#addExp").click(function() {
         $("#experiencias").append(`
             <div class="mb-3">

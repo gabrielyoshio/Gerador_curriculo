@@ -71,7 +71,7 @@
 
         <div class="mb-3">
             <label class="form-label">Telefone</label>
-            <input type="text" name="telefone" class="form-control" required>
+            <input type="text" name="telefone" class="form-control" required> 
         </div>
 
         <div class="mb-3">
@@ -103,10 +103,10 @@
     </form>
 </div>
 
-<!-- jQuery -->
+
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<!-- Script para adicionar experiências -->
+
 <script>
 $(document).ready(function() {
     $("#addExp").click(function() {
